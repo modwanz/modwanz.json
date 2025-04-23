@@ -1,1 +1,54 @@
-{"packages":[{"appName":"Modwanz Manager","androidPackageName":"com.modwanz.manager","latestVersionCode":"2.0.9","appShortDescription":"Modwanz Manager is a complete solution for downloading, installing, and managing Modwanz apps and other mod APKs, offering a safe, and user-friendly experience.","requireSupportwanz":false,"latestVersionUrl":"https://github.com/modwanz/modwanz.apk/releases/download/modwanz.com/Modwanz-Manager_2.0.9-.modwanz.apk","icon":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzRvhII8AiDo8dvGmv5HP1dxbngCU5hBltyXxFnDqCls2D1hpVS1JbMGFLGWc2nb3QAG9sncs6TAQa56QxNpG46HomxCn-etf6tn-M8o97XMbV6uM_aCY38hLFtC-FipjUTCtOCQ9ycWeSeLfV0l7EwYDsscambDN95ALYCggHrm6IOvu2_b7Z2uw-dHT5/s320/20250408_084828.png","index":0},{"appName":"Rz YouTube x Premium ","androidPackageName":"com.modwanz.android.youtube","latestVersionCode":"20.06.42","appShortDescription":"Rz YouTube X Premium is a paid streaming subscription service that provides ad-free streaming of all videos hosted by YouTube, exclusive original content produced in collaboration with the site's main creators, as well as offline playback and background playback of videos on your device.","requireSupportwanz":true,"latestVersionUrl":"https://github.com/modwanz/modwanz.apk/releases/download/modwanz.com/Rz-YouTube-X-Premium_20.06.42.apk","icon":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk9VosTNbG9k8OXh6aM6YrzAAOE3VB8iPADgLHKuVmFuBWbsFY6olRo_0eMTvyj3wd-_GQBl77Dvq_NmN17MEVm10ZLoJIXyvfakpHLn0s8_JPDh0vxxPaANNxjN82lbH3nihA394-QBRT0hdK5ouFdOj9QpeEqzps0sl_U1fEtMA5bCeFdO4WbIjgqncg/s1600/20250408_091334.png","index":1},{"appName":"support wanz","androidPackageName":"com.modwanz.android.gms","latestVersionCode":"0.3.1.3.240913","appShortDescription":"support wanz is a support application for Rz YouTube X Premium that I have modified. the function of this application is to link your google account into the Rz YouTube X Premium application.","requireSupportwanz":true,"latestVersionUrl":"https://github.com/modwanz/modwanz.apk/releases/download/modwanz.com/support-wanz_0.3.1.3.240913.apk","icon":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2YTUCcRil68EL3hjvyjTNJexb1nFaeXeE9Q79iCz8LAYNdWMjCBpaqklYYK1Jl-dhnkhc7GR4ZODCLPtH-ctphqwaHBfnILSHe3PYRkKtQyem-s6NAsYMsytON5PkQA0POJ1fkg0wXIjf7X_8sJXQA7pVCXw7IyiX7bSOrC-83Evm1_cTPQi8aknEzAxX/s1600/support_wanz-removebg-preview.png","index":2},{"appName":"Xmodwanz","androidPackageName":"com.twitter.modwanz","latestVersionCode":"10.39.0","appShortDescription":"Coming Soon ","requireSupportwanz":true,"latestVersionUrl":"https//.apk","icon":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi10E4VUFo8x5EQEbellWdhJ8x2y2xuS5u6ivd4yRkUvrUt18DtTwtftr448Xwgfq8fmA6yp96TwaQGT6xgzqIxmg4KdjEHKfasIPZSK5Rz502qXAd-bJYVwBlUmoqN-wB2HKGCrtGTAsaoYWMpJuuDJa5ywX-aEmN58bOY0ZgIwg6f0AB3_tdNNagZsoh_/s1600/20250411_191924.png","index":2}]}
+{
+  "packages": [
+    {
+      "appName": "Modwanz Manager",
+      "androidPackageName": "com.modwanz.manager",
+      "latestVersionCode": "2.0.9",
+      "appShortDescription": "Modwanz Manager is a complete solution for downloading, installing, and managing Modwanz apps and other mod APKs, offering a safe, and user-friendly experience.",
+      "requireSupportwanz": false,
+      "latestVersionUrl": "https://github.com/modwanz/modwanz.apk/releases/download/modwanz.com/Modwanz-Manager_2.0.9-.modwanz.apk",
+      "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzRvhII8AiDo8dvGmv5HP1dxbngCU5hBltyXxFnDqCls2D1hpVS1JbMGFLGWc2nb3QAG9sncs6TAQa56QxNpG46HomxCn-etf6tn-M8o97XMbV6uM_aCY38hLFtC-FipjUTCtOCQ9ycWeSeLfV0l7EwYDsscambDN95ALYCggHrm6IOvu2_b7Z2uw-dHT5/s320/20250408_084828.png",
+      "index": 0
+    },
+    {
+      "appName": "Rz YouTube x Premium ",
+      "androidPackageName": "com.modwanz.android.youtube",
+      "latestVersionCode": "20.06.42",
+      "appShortDescription": "Rz YouTube X Premium is a paid streaming subscription service that provides ad-free streaming of all videos hosted by YouTube, exclusive original content produced in collaboration with the site's main creators, as well as offline playback and background playback of videos on your device.",
+      "requireSupportwanz": true,
+      "latestVersionUrl": "https://github.com/modwanz/modwanz.apk/releases/download/modwanz.com/Rz-YouTube-X-Premium_20.06.42.apk",
+      "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk9VosTNbG9k8OXh6aM6YrzAAOE3VB8iPADgLHKuVmFuBWbsFY6olRo_0eMTvyj3wd-_GQBl77Dvq_NmN17MEVm10ZLoJIXyvfakpHLn0s8_JPDh0vxxPaANNxjN82lbH3nihA394-QBRT0hdK5ouFdOj9QpeEqzps0sl_U1fEtMA5bCeFdO4WbIjgqncg/s1600/20250408_091334.png",
+      "index": 1
+    },
+    {
+      "appName": "support wanz",
+      "androidPackageName": "com.modwanz.android.gms",
+      "latestVersionCode": "0.3.1.3.240913",
+      "appShortDescription": "support wanz is a support application for Rz YouTube X Premium that I have modified. the function of this application is to link your google account into the Rz YouTube X Premium application.",
+      "requireSupportwanz": true,
+      "latestVersionUrl": "https://github.com/modwanz/modwanz.apk/releases/download/modwanz.com/support-wanz_0.3.1.3.240913.apk",
+      "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2YTUCcRil68EL3hjvyjTNJexb1nFaeXeE9Q79iCz8LAYNdWMjCBpaqklYYK1Jl-dhnkhc7GR4ZODCLPtH-ctphqwaHBfnILSHe3PYRkKtQyem-s6NAsYMsytON5PkQA0POJ1fkg0wXIjf7X_8sJXQA7pVCXw7IyiX7bSOrC-83Evm1_cTPQi8aknEzAxX/s1600/support_wanz-removebg-preview.png",
+      "index": 2
+    },
+    {
+      "appName": "Xmodwanz",
+      "androidPackageName": "com.twitter.modwanz",
+      "latestVersionCode": "10.39.0",
+      "appShortDescription": "Coming Soon ",
+      "requireSupportwanz": true,
+      "latestVersionUrl": "https//.apk",
+      "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi10E4VUFo8x5EQEbellWdhJ8x2y2xuS5u6ivd4yRkUvrUt18DtTwtftr448Xwgfq8fmA6yp96TwaQGT6xgzqIxmg4KdjEHKfasIPZSK5Rz502qXAd-bJYVwBlUmoqN-wB2HKGCrtGTAsaoYWMpJuuDJa5ywX-aEmN58bOY0ZgIwg6f0AB3_tdNNagZsoh_/s1600/20250411_191924.png",
+      "index": 2
+    },
+    {
+      "appName": "Remini",
+      "androidPackageName": "com.modwanz.remini",
+      "latestVersionCode": "3.7.956",
+      "appShortDescription": "Remini Mod is a modified version of the Remini app that provides free access to premium features, such as photo enhancement without watermark and without ads. However, its use is risky and is not officially supported by the developer.",
+      "requireSupportwanz": true,
+      "latestVersionUrl": "https://github.com/modwanz/modwanz.apk/releases/download/v3.7.956/Remini_3.7.956.-.modwanz.apk",
+      "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr1K1TqkZUjubver03Us70vnQhG6ouyo2W4qJh0MbDJE9sSm4rFWATXloRQKdtZtKGo2RnFHEw_mU85bhBYfkCenpC1VDtlZRUK1ylivrCzOZZEEJh07mbOuhSFvdueHFLg4Mo-1kvMHv9ApmATKUWUhiDppXbP1q3LW0TycQPDlPYyFFRNqXYdTTpXgNF/s1600/20250423_165010.png",
+      "index": 2
+    }
+  ]
+}
