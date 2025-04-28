@@ -21,16 +21,6 @@
       "index": 1
     },
     {
-      "appName": "support wanz",
-      "androidPackageName": "com.modwanz.android.gms",
-      "latestVersionCode": "0.3.1.3.240913",
-      "appShortDescription": "support wanz is a support application for Rz YouTube X Premium that I have modified. the function of this application is to link your google account into the Rz YouTube X Premium application.",
-      "requireSupportwanz": true,
-      "latestVersionUrl": "https://github.com/modwanz/modwanz.apk/releases/download/modwanz.com/support-wanz_0.3.1.3.240913.apk",
-      "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2YTUCcRil68EL3hjvyjTNJexb1nFaeXeE9Q79iCz8LAYNdWMjCBpaqklYYK1Jl-dhnkhc7GR4ZODCLPtH-ctphqwaHBfnILSHe3PYRkKtQyem-s6NAsYMsytON5PkQA0POJ1fkg0wXIjf7X_8sJXQA7pVCXw7IyiX7bSOrC-83Evm1_cTPQi8aknEzAxX/s1600/support_wanz-removebg-preview.png",
-      "index": 2
-    },
-    {
       "appName": "Xmodwanz",
       "androidPackageName": "com.twitter.modwanz",
       "latestVersionCode": "10.39.0",
@@ -41,6 +31,16 @@
       "index": 2
     },
     {
+      "appName": "support wanz",
+      "androidPackageName": "com.modwanz.android.gms",
+      "latestVersionCode": "0.3.4",
+      "appShortDescription": "support wanz is a support application for Rz YouTube X Premium that I have modified. the function of this application is to link your google account into the Rz YouTube X Premium application.",
+      "requireSupportwanz": true,
+      "latestVersionUrl": "https://github.com/modwanz/modwanz.apk/releases/download/modwanz.com/support-wanz_0.3.1.3.240913.apk",
+      "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_T_RrpYfJ9Tam9gz_HaV5aRTRPDhECEg6_fmdQWXGFyQZ9BkEKmPT27OFODr3KMUPQfuEoc0vOtcIa-zB8-EIdjxdp9sqhnuc5A35OhpkhqdC-t9aG_MJQaIbKyb3Iiq42f6nkVncPHlO6uBC8qtkb2jQwHooSIce8F1MlD7NDszhhC0OYssFgUll4v-Q/s1600/support_wanz_v0.3.4_-_modwanz_ic_app.png",
+      "index": 2
+    },
+    {
       "appName": "Remini",
       "androidPackageName": "com.modwanz.remini",
       "latestVersionCode": "3.7.956",
@@ -48,6 +48,16 @@
       "requireSupportwanz": true,
       "latestVersionUrl": "https://github.com/modwanz/modwanz.apk/releases/download/v3.7.956/Remini_3.7.956.-.modwanz.apk",
       "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr1K1TqkZUjubver03Us70vnQhG6ouyo2W4qJh0MbDJE9sSm4rFWATXloRQKdtZtKGo2RnFHEw_mU85bhBYfkCenpC1VDtlZRUK1ylivrCzOZZEEJh07mbOuhSFvdueHFLg4Mo-1kvMHv9ApmATKUWUhiDppXbP1q3LW0TycQPDlPYyFFRNqXYdTTpXgNF/s1600/20250423_165010.png",
+      "index": 2
+    },
+    {
+      "appName": "Go Modwanz",
+      "androidPackageName": "com.modwanz.go",
+      "latestVersionCode": "5.3.6",
+      "appShortDescription": "Coming Soon",
+      "requireSupportwanz": true,
+      "latestVersionUrl": "",
+      "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCVYVSLjBJbmlz5jCP9P6xBcyk2S6CvqpsDUEQSvaDiCQgJlkljF0PjI0DdJPGYUBoG9gMYWEtMMdidNNDCWWfL50xHnm3RAi7Wlvuoy6qYHqgopXt10eX8nQ4ihkiIGGI_y9XHSaqSTM-m0sqaPSTRh2wXKhKBbVMGxxYCWEMJkeIDGeVEw5YssR4WE9/s1600/20250428_053201.png",
       "index": 2
     }
   ]
