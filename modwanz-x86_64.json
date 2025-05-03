@@ -3,10 +3,10 @@
     {
       "appName": "Modwanz Manager",
       "androidPackageName": "com.modwanz.manager",
-      "latestVersionCode": "2.0.11",
+      "latestVersionCode": "2.0.12",
       "appShortDescription": "Modwanz Manager is a complete solution for downloading, installing, and managing Modwanz apps and other mod APKs, offering a safe, and user-friendly experience.",
       "requireSupportwanz": false,
-      "latestVersionUrl": "https://github.com/modwanz/modwanz.apk/releases/download/v2.0.11/Modwanz.Manager_2.0.11.-.modwanz.apk",
+      "latestVersionUrl": "https://github.com/modwanz/modwanz.apk/releases/download/modwanz/Modwanz.Manager_2.0.12.-.modwanz.apk",
       "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9QzqMIDrZHHDB4Gj9-dZsu9PQ0ajPowk5moR-R-xCSWE4hQ1s6Fswnmv1OnXyf1egQy4Apy5izc7MqLpmJ_0fREzGUmYGXUAE5laRpU3ypuIQBT8KMANKRYb5sGpAfDh8LtqAau6fO9ABukTXwgf548lkymgyGNBDExlfhP6WyXHpmrBfoRDlSpvX2Z6x/s1600/Modwanz_Manager_v2.0.11_-_modwanz_ic_launcher.png",
       "index": 0
     },
@@ -58,6 +58,16 @@
       "requireSupportwanz": true,
       "latestVersionUrl": "https://github.com/modwanz/modwanz.apk/releases/download/v5.3.6.1/Go.Modwanz_5.3.6.-.modwanz.apk",
       "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCVYVSLjBJbmlz5jCP9P6xBcyk2S6CvqpsDUEQSvaDiCQgJlkljF0PjI0DdJPGYUBoG9gMYWEtMMdidNNDCWWfL50xHnm3RAi7Wlvuoy6qYHqgopXt10eX8nQ4ihkiIGGI_y9XHSaqSTM-m0sqaPSTRh2wXKhKBbVMGxxYCWEMJkeIDGeVEw5YssR4WE9/s1600/20250428_053201.png",
+      "index": 2
+    },
+    {
+      "appName": "Spotify",
+      "androidPackageName": "com.spotify.music",
+      "latestVersionCode": "9.0.30.631",
+      "appShortDescription": "Spotify Mod from modwanz Ad-Free – Users can listen to music without any audio or visual ad interruptions.",
+      "requireSupportwanz": true,
+      "latestVersionUrl": "https://github.com/modwanz/modwanz.apk/releases/download/smodwanz/Spotify_9.0.30.631.-.modwanz.apk",
+      "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBRlo5KdpPHTGZVWNu04hu22gPkm7hYQegmwQW6o9MFOS6tRigyNN9gVXdOSyKYLa1YzwjbTFk7C3UmEQWHC5Jfub_KNBDpBw4w0Vnk13fqKc_5ppI5N5wyS4MoGJbPc_k89NGZuavXQrYkGUFDk3mb8SiCt5PABEXLhxGTGXCf6pI1WJJiUj63GuVZN-v/s1600/icon.png",
       "index": 2
     }
   ]
